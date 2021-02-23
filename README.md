@@ -15,8 +15,7 @@
 
 
 #### Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7985287e-8511-479a-a9dd-f79a400d8a88" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-<a href="https://www.youracclaim.com/badges/d6e30c70-c405-4200-abbf-7400eb1f2f0f/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cissp.png" class="cert" alt='CISSP' width="80px"></a>
+<a href="https://www.youracclaim.com/badges/be4946c9-e3e8-49ab-9523-dc091947b48d/public_url" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png" class="cert" alt='CISSP' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/df6e81a4-685e-4d34-b763-4c1db2194645/public_url" target="_blank"><img src="https://marcolancini.it/images/about/ccsp.png" class="cert" alt='CCSP' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/ac592c8b-905b-4cfa-845a-cca49030084a/public_url" target="_blank"><img src="https://marcolancini.it/images/about/cncf_cks.png" class="cert" alt='CNCF CKS' width="80px"></a>
 <a href="https://www.youracclaim.com/badges/a8ba715f-207e-455a-a468-d2696d90caf9/public_url" target="_blank"><img src="https://marcolancini.it/images/about/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>

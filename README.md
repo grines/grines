@@ -1,14 +1,6 @@
 ### Hey
 
-- 👨🏻‍💻 I'm a senior offensive securoty engineer, focusing on the security of the cloud environments (AWS, GCP, Azure)
-
-
-#### How to reach me?
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/grines)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bstegmo/)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://grines.dev)
-
-https://www.youracclaim.com/users/brian-stegemoller
+- 👨🏻‍💻 I'm a senior offensive securoty engineer, focusing on the security of the cloud environments (AWS, GCP, Azure) and MacOS related research. I have spent a considerable amount playing IOT devices.
 
 #### Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->

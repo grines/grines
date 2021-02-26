@@ -1,6 +1,6 @@
 ### Hey
 
-- 👨🏻‍💻 I'm a senior offensive securoty engineer, focusing on the security of the cloud environments (AWS, GCP, Azure) and MacOS related research. I have spent a considerable amount playing IOT devices.
+- 👨🏻‍💻 I'm a senior offensive security engineer, focusing on the security of the cloud environments (AWS, GCP, Azure) and MacOS related research. I have spent a considerable amount of time playing with IOT devices.
 
 #### Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
